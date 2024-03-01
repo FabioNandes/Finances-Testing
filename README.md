@@ -16,6 +16,7 @@
 3. ## :bulb: Information
 #### :test_tube: Tests
 :file_folder: Os testes estão localizados na pasta `cypress/e2e` 
+
 :file_folder: As funções auxiliares estão dentro da pasta `cypress/support` no arquivo `.utils.js`
 
 #### :diamond_shape_with_a_dot_inside: Extensões recomendadas para o VS Code
