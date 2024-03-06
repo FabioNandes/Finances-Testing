@@ -1,5 +1,6 @@
 # **Simple** E2E test suite with Cypress
-[![cypress-example](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/urshkd&style=flat&logo=cypress)](https://cloud.cypress.io/projects/vqxgs5/runs) :point_left: click here to see test results on Cypress dashboard
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+[![cypress](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/count/ypt4pf/develop&style=flat&logo=cypress)](https://cloud.cypress.io/projects/vqxgs5/runs) :point_left: click here to see test results on Cypress dashboard
 > **application under test:** https://devfinance-agilizei.netlify.app
 >
 > ## :goal_net: Goals
